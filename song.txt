@@ -3,6 +3,3 @@ test 2 java (pull)
 
 test 3
 test 4
-
-coup 2
-coup 3
