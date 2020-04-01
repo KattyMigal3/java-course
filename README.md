@@ -1,3 +1,3 @@
 # java-course
 
-master amend
+master amendment
